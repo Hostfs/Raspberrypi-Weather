@@ -1,0 +1,6 @@
+{
+  "name": "PiWeather",
+  "description": "Raspberry Pi real-time weather station dashboard with MQTT telemetry, live charts, low-latency 1s sync, offline Room caching, and responsive tablet UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
